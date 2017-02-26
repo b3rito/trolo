@@ -1,5 +1,5 @@
 # trolo
-a easy to use script for generating Payloads that bypasses antivirus
+an easy to use script for generating Payloads that bypasses antivirus
 
 # Requirements
 Metasploit Framework
